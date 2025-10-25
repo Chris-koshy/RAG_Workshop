@@ -26,7 +26,8 @@ Model Configuration Evaluation:
 
 2. How is NVIDIA contributing to the advancement of generative AI?
 
-SYSTEM REQUIREMENTS:
+
+# SYSTEM REQUIREMENTS:
 
 Minimum 8GB RAM (16GB recommended for better performance)
 At least 20GB free disk space for models and vector databases
