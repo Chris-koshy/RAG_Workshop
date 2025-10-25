@@ -22,9 +22,9 @@ Model Configuration Evaluation:
 
 ## Test questions:
 
-1. What is Nike as a brand known for ?
+1. What strategic decisions helped NVIDIA dominate the GPU market?
 
-2. How did Nike use athlete endorsements to strengthen its brand image?
+2. How is NVIDIA contributing to the advancement of generative AI?
 
 SYSTEM REQUIREMENTS:
 
