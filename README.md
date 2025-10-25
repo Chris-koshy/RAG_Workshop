@@ -20,7 +20,7 @@ Model Configuration Evaluation:
 
 1. Install requirements: pip install -r requirements.txt
 
-2. Run: python RAG_Workshop_modified.py
+2. Run: python RAG_Workshop_Chris.py
 
 ## Test questions:
 
