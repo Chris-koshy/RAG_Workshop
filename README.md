@@ -2,7 +2,6 @@
 
 ## Topic: NVIDIA Strategy Q&A Bot
 
-## What I changed:
 
 - Documents: Added 5 PDF case studies related to Nvidia Case Study Reports.
 
